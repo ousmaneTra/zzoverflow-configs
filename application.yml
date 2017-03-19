@@ -9,6 +9,5 @@ eureka:
 feature:
   registration:
     enabled: true
-feature:
   askquestion:
     enabled: true
