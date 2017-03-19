@@ -7,7 +7,11 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 feature:
-  registration:
-    enabled: true
-  askquestion:
-    enabled: true
+    registration:
+        enabled: true
+    signin:
+        enabled: true
+    askquestion:
+        enabled: true
+    answerquestion:
+        enabled: true
