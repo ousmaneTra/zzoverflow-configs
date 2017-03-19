@@ -1,2 +1,6 @@
 test:
   message: hello
+#Features
+feature:
+  registration:
+    enabled: true
